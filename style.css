@@ -1,0 +1,26 @@
+@font-face{
+  font-family:"black";
+  src: url('BLACKJAR.TTF');
+}
+.p1{
+  font-family: "black";
+  font-size: 18px;
+}
+
+.gambar1{
+  height: 400px;
+  width: 100%;
+}
+.media-body{
+  text-align: justify;
+  line-height: 2em; 
+}
+.icon-home{
+  height: 60px;
+}
+body{
+  background-color: #f8f9fa;
+}
+.icon-niomic{
+  height:50px;
+}
